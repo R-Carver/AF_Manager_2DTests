@@ -5,17 +5,7 @@ using UnityEngine;
 public class SensorController : MonoBehaviour
 {   
 
-    //stores 
+    public List<Sensor> sensors =  new List<Sensor>();
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+   
 }
