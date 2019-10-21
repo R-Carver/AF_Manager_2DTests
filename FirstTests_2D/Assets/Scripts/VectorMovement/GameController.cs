@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Discrete Round-based Version
+
 public class GameController : MonoBehaviour
 {
     //here we assume that all the Controller Scripts are on the Player Object
